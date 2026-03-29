@@ -8,3 +8,4 @@ This repository contains my tasks for the AI/ML Engineering Internship at Develo
 
 **Phase 2**
 * **Task 2: End-to-End ML Pipeline:** Built a production-ready Scikit-Learn pipeline for predicting Telco customer churn, utilizing ColumnTransformer, GridSearchCV, and exported the model using `joblib`.
+* **Task 5: Auto Tagging Support Tickets:** Deployed a Hugging Face Zero-Shot LLM `(bart-large-mnli)` to automatically categorize IT support tickets, successfully extracting the top 3 probable tags and demonstrating few-shot prompt engineering.
